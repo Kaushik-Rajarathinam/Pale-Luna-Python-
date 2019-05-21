@@ -2,7 +2,7 @@
 
 This is the recreation of the creepypasta Pale Luna.
 
-Pale Luna Bio - https://creepypasta.fandom.com/wiki/Pale_Luna
+<Pale Luna Bio (https://creepypasta.fandom.com/wiki/Pale_Luna)>
 Pale Luna Story - https://www.youtube.com/watch?v=GtoPHy2xCPU
 
 Horror Text Adventure Game.
