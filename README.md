@@ -12,7 +12,8 @@ Horror Text Adventure Game.
 
 The game is a simple text adventure game. All prompts must be answer in caps.
 EX.
-```There is GOLD in the corner.
+```
+There is GOLD in the corner.
 
 Command?
 
